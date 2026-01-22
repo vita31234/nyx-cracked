@@ -1,6 +1,3 @@
--- HI SKID if ur somehow reading this we have already logged all of ur information including ip :)
-
-
 
 if type(game) ~= "userdata" then
     while true do
@@ -1559,4 +1556,5 @@ task.delay(5, function()
             game.Players.LocalPlayer:Kick("Anti-Cheat Updated! Send a photo of this Message in our Discord Server or alert a developer so we can fix it.")
         end
     end)
+
 end)
